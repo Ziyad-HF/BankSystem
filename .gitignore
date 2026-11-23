@@ -71,3 +71,20 @@ Thumbs.db
 *.dll
 *.exe
 
+
+# C++ build output
+bin/
+obj/
+build/
+build-*/
+*.exe
+*.out
+*.o
+*.lib
+*.d
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeLists.txt.user*
